@@ -1,37 +1,42 @@
-Delivery Analysis Project
+# Delivery Analysis Project
 This project is focused on analyzing delivery data to uncover insights into various aspects of the delivery process, including order volume, delivery times, and factors affecting delivery efficiency. The project uses data from a delivery service and aims to provide valuable insights for business, delivery personnel, and restaurants.
 
-Objective
+## Objective
 The main objective of this project is to perform exploratory data analysis (EDA) on delivery data to gain insights into:
 
-Business operations such as order volume and distribution.
-Delivery personnel performance and conditions.
-Restaurant delivery metrics.
-Key Insights
-Order Volume and Distribution
+1. Business operations such as order volume and distribution.
+2. Delivery personnel performance and conditions.
+3. Restaurant delivery metrics.
 
-The number of orders per day and week.
-Distribution of orders by traffic conditions.
-Comparison of order volume by city and traffic conditions.
-Delivery Personnel Analysis
+## Key Insights
+### Order Volume and Distribution
 
-The age range of delivery personnel.
-Vehicle condition ratings.
-Average ratings per delivery person and by traffic conditions.
-Identification of the fastest and slowest delivery personnel by city.
-Restaurant Delivery Metrics
+1. The number of orders per day and week.
+2. Distribution of orders by traffic conditions.
+3. Comparison of order volume by city and traffic conditions.
+   
+### Delivery Personnel Analysis
 
-The number of unique delivery people.
-Average distance between restaurants and delivery locations.
-Average delivery time by city, type of order, and traffic conditions.
-Impact of festivals on delivery time.
-Data Cleaning
+1. The age range of delivery personnel.
+2. Vehicle condition ratings.
+3. Average ratings per delivery person and by traffic conditions.
+4. Identification of the fastest and slowest delivery personnel by city.
+
+### Restaurant Delivery Metrics
+
+1. The number of unique delivery people.
+2. Average distance between restaurants and delivery locations.
+3. Average delivery time by city, type of order, and traffic conditions.
+4. Impact of festivals on delivery time.
+
+## Data Cleaning
 The data was cleaned and preprocessed to ensure accurate analysis. The steps included:
 
-Converting column names to lowercase.
-Handling missing values and data type conversions.
-Removing extra spaces from object features.
-Exploratory Data Analysis (EDA)
+1. Converting column names to lowercase.
+2. Handling missing values and data type conversions.
+3. Removing extra spaces from object features.
+   
+## Exploratory Data Analysis (EDA)
 1. Business Insights
 1.1 Quantity Orders Per Day
 Visualized the number of orders per day using a bar chart.
@@ -92,10 +97,10 @@ Analyzed the average delivery time and standard deviation by city and traffic co
 3.6 Delivery Time During Festivals
 Compared delivery times during festivals and non-festivals.
 
-Conclusion
+## Conclusion
 The analysis provided a comprehensive view of delivery operations, highlighting key areas for improvement and efficiency. The insights can be used by business owners, delivery personnel, and restaurants to optimize their processes and enhance customer satisfaction.
 
-Technologies Used
+## Technologies Used
 Python for data processing and analysis.
 Pandas and NumPy for data manipulation.
 Seaborn, Plotly Express, and Plotly Graph Objects for data visualization.
