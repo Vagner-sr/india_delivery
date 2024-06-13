@@ -104,16 +104,18 @@ Compared delivery times during festivals and non-festivals.
 The analysis provided a comprehensive view of delivery operations, highlighting key areas for improvement and efficiency. The insights can be used by business owners, delivery personnel, and restaurants to optimize their processes and enhance customer satisfaction.
 
 ## Technologies Used
-Python for data processing and analysis.
-Pandas and NumPy for data manipulation.
-Seaborn, Plotly Express, and Plotly Graph Objects for data visualization.
-Folium for mapping.
-Haversine for calculating distances.
-Getting Started
+* Python for data processing and analysis.
+* Pandas and NumPy for data manipulation.
+* Seaborn, Plotly Express, and Plotly Graph Objects for data visualization.
+* Folium for mapping.
+* Haversine for calculating distances.
+
+#### Getting Started
 To run this project, follow these steps:
 
-Clone the repository.
-Install the required packages using pip install -r requirements.txt.
-Run the notebook to see the analysis and visualizations.
-Acknowledgements
+* Clone the repository.
+* Install the required packages using pip install -r requirements.txt.
+* Run the notebook to see the analysis and visualizations.
+
+##### Acknowledgements
 This project was developed as part of a data analysis exercise. Special thanks to the data providers and the open-source community for their invaluable tools and libraries.
