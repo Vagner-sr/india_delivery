@@ -4,7 +4,7 @@ This project is focused on analyzing delivery data to uncover insights into vari
 ## Objective
 The main objective of this project is to perform exploratory data analysis (EDA) on delivery data to gain insights into:
 
-1. Business operations such as order volume and distribution.
+* Business operations such as order volume and distribution.
 2. Delivery personnel performance and conditions.
 3. Restaurant delivery metrics.
 
