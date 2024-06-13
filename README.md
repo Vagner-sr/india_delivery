@@ -37,7 +37,8 @@ The data was cleaned and preprocessed to ensure accurate analysis. The steps inc
 3. Removing extra spaces from object features.
    
 ## Exploratory Data Analysis (EDA)
-1. Business Insights
+**1. Business Insights**
+
 1.1 Quantity Orders Per Day
 Visualized the number of orders per day using a bar chart.
 
@@ -56,7 +57,8 @@ Analyzed the number of deliveries per delivery person per week using a line char
 1.6 Central Localization of Each City by Traffic
 Visualized the central locations of deliveries in each city by traffic conditions using a Folium map.
 
-2. Delivery Person Insights
+**2. Delivery Person Insights**
+
 2.1 Age of Delivery Personnel
 Identified the youngest and oldest delivery personnel.
 
@@ -78,7 +80,8 @@ Identified the top 10 fastest delivery persons in each city.
 2.7 Top 10 Slowest Delivery Persons by City
 Identified the top 10 slowest delivery persons in each city.
 
-3. Restaurant Insights
+**3. Restaurant Insights**
+
 3.1 Number of Unique Delivery People
 Calculated the number of unique delivery personnel.
 
